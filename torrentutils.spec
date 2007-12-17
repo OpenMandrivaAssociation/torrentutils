@@ -10,7 +10,6 @@ Source0: http://oskarsapps.mine.nu/src/%{name}-%{version}.tar.bz2
 URL: http://oskarsapps.mine.nu/torrentutils.html
 License: GPL or Artistic
 Group: Networking/File transfer
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildArch: noarch
 BuildRequires: perl
 
