@@ -1,6 +1,6 @@
 %define name torrentutils
 %define version 0.3.0
-%define release %mkrel 9
+%define release %mkrel 10
 
 Summary: Utilities for BitTorrent files
 Name: %{name}
